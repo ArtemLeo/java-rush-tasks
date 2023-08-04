@@ -1,14 +1,13 @@
-package Level_3_Debug;// Переобуваемся на лету;
+package Level_3_Debug;
+
+// Выполнение фрагмента кода;
 
 public class Task_002_Debug {
-    public static int result = 105;
+    public static int result = 45967;
 
     public static void main(String[] args) {
-        byte correction = Byte.MAX_VALUE;
-        for (double fahrenheit = -459.67; fahrenheit < 451; fahrenheit += 40) {
-            correction *= fahrenheit;
-            System.out.println(correction);
-        }
+        String loop = "for (double fahrenheit = -459.67; fahrenheit < 451; fahrenheit += 40) {\n";
+        System.out.println(loop);
     }
 }
 
