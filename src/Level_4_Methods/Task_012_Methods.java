@@ -17,7 +17,5 @@ public class Task_012_Methods {
             System.out.println(elementSqrt + element + " = " + mathSqrt);
         }
     }
-
-
 }
 
