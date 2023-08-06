@@ -16,11 +16,11 @@ public class Task_005_Array {
 
         if (n % 2 != 0) {
             for (int i = 0; i < array.length; i++) {
-                System.out.println(array[i]);
+                System.out.print(array[i]+ " ");
             }
         } else {
             for (int i = array.length - 1; i >= 0; i--) {
-                System.out.println(array[i]);
+                System.out.print(array[i] + " ");
             }
         }
     }
