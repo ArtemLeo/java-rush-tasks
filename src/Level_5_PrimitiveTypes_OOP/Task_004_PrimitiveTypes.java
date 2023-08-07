@@ -1,4 +1,4 @@
-package Level_5_PrimitiveTypes;
+package Level_5_PrimitiveTypes_OOP;
 
 // Бесконечность не предел;
 
