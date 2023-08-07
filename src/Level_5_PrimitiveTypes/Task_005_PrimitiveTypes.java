@@ -1,6 +1,6 @@
 package Level_5_PrimitiveTypes;
 
-// Бесконечность не предел;
+// Странное деление;
 
 public class Task_005_PrimitiveTypes {
         public static void main(String[] args) {
