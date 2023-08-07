@@ -1,16 +1,11 @@
 package Level_5_PrimitiveTypes;
 
-// Минимальное целое;
+// Экспонентная запись числа;
 
 public class Task_003_PrimitiveTypes {
-    public static void main(String[] args) {
-        byte a = Byte.MIN_VALUE;
-        short b = Short.MIN_VALUE;
-        int c = Integer.MIN_VALUE;
-        long d = Long.MIN_VALUE;
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-    }
+    double earthDiameter = 1.2742E+4;
+    double lightSpeed = 2.99792458E+8;
+    double uraniumAtomicMass = 2.380289E+2;
+    double averageBeeWeight = 8.5E-2;
+    double javaDeveloperSalary = 1E+4;
 }
